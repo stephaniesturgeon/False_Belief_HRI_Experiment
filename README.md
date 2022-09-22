@@ -1,4 +1,5 @@
 ![](https://github.com/stephaniesturgeon/False_Belief_HRI_Experiment/blob/main/Sturgeon_Poster_RO-MAN.png)
+https://github.com/stephaniesturgeon/False_Belief_HRI_Experiment/blob/main/RO-MAN-Sturgeon_study.mp4
 ![](https://github.com/stephaniesturgeon/False_Belief_HRI_Experiment/blob/main/RO-MAN_paper_pdfs/089564671-2.png)
 ![](https://github.com/stephaniesturgeon/False_Belief_HRI_Experiment/blob/main/RO-MAN_paper_pdfs/089564671-3.png)
 ![](https://github.com/stephaniesturgeon/False_Belief_HRI_Experiment/blob/main/RO-MAN_paper_pdfs/089564671-4.png)
